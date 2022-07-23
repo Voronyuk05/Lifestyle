@@ -1,0 +1,26 @@
+.container {
+    max-width: 906px;
+    margin: 0 auto;
+}
+
+header .container {
+    max-width: 556px;
+}
+
+header .container .navigation {
+    margin-top: 67px;
+    margin-bottom: 96px;
+    display: flex;
+    justify-content: ;
+}
+
+header .container .navigation a {
+    margin-top: 67px;
+    margin-bottom: 96px;
+    display: flex;
+    justify-content: space-between;
+}
+
+header .container .navigation a:hover{
+    color: cyan
+}
