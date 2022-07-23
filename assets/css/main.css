@@ -11,16 +11,15 @@ header .container .navigation {
     margin-top: 67px;
     margin-bottom: 96px;
     display: flex;
-    justify-content: ;
+    justify-content: space-between;
 }
 
 header .container .navigation a {
     margin-top: 67px;
     margin-bottom: 96px;
     display: flex;
-    justify-content: space-between;
 }
 
 header .container .navigation a:hover{
-    color: cyan
+    color: cyan;
 }
