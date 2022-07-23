@@ -15,11 +15,12 @@ header .container .navigation {
 }
 
 header .container .navigation a {
-    margin-top: 67px;
-    margin-bottom: 96px;
-    display: flex;
+    text-decoration: none;
+    color: darkgray;
+    font-size: 14px;
+    line-height: 19px;
 }
 
-header .container .navigation a:hover{
+header .container .navigation a:hover {
     color: cyan;
 }
